@@ -1,0 +1,27 @@
+img {
+    width: 100%;
+  
+  }
+  
+  .imageWrapper {
+    max-width: 30rem;
+    min-width: 10rem;
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.8);
+    padding: 1rem;
+  }
+  
+  .content {
+    max-width: 30rem;
+    min-width: 10rem;
+    padding: 1rem;
+  
+  }
+  
+  .about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 2rem;
+  }

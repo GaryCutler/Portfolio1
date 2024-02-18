@@ -1,0 +1,8 @@
+.footer {
+    background-color: teal;
+    padding: 3rem;
+    bottom: 0;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 0;
+}

@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    background-color: teal;
+    margin-top: 0;
+}
+
+.navItem {
+    list-style: none;
+
+}
+
+.navItem:hover {
+    cursor: pointer;
+}
+
+.navContainer {
+    margin: 0;
+    padding: 0;
+
+}
