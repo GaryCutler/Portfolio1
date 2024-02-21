@@ -16,13 +16,6 @@ const ContactInfoPage = () => {
         <strong>Address:</strong> 538 Bond Ave NW #714 Grand Rapids, MI 49503
 
       </p>
-
-      <h3>Social Media</h3>
-      <li>
-          <a href="https://linkedin.com/in/your_linkedin" target="_blank" rel="noopener noreferrer">
-            LinkedIn
-          </a>
-      </li>
     
     </div>
   );
