@@ -16,7 +16,18 @@ const ContactInfoPage = () => {
         <strong>Address:</strong> 538 Bond Ave NW #714 Grand Rapids, MI 49503
 
       </p>
-    
+
+      <h3>Social Media</h3>
+      <li>
+          <a href="https://www.linkedin.com/in/gary-cutler-12b08b2a3/" target="_blank" rel="noopener noreferrer">
+            LinkedIn
+          </a>
+      </li>
+      <li>
+          <a href="https://github.com/GaryCutler" target="_blank" rel="noopener noreferrer">
+            Github
+          </a>
+      </li>
     </div>
   );
 };
